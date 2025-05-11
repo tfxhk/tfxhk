@@ -1,4 +1,5 @@
-<h1 align="left">˗ˏˋ Hello World ⋮ from the depths of logic!! ˎˊ˗</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=2000&pause=2000&color=F7F7F7&vCenter=true&width=1000&lines=%CB%97%CB%8F%CB%8B+Hello+World+%E2%8B%AE+from+the+depths+of+logic!!+%CB%8E%CB%8A%CB%97)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tfxhk/count.svg?"  />
@@ -42,7 +43,7 @@
 
 
 
-### 🐛 Languages I Work With
+### 💻 Languages I Work With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
