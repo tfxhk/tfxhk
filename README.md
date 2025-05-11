@@ -55,6 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tfxhk/tfxhk/output/snake.svg" alt="Snake animation" />
+ ![Snake animation](https://github.com/natfirmino/TesteNat/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
