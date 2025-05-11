@@ -2,15 +2,47 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tfxhk/count.svg?"  />
+
+  ###
 </div>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tfxhk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tfxhk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <!-- GitHub Stats (Left Side) -->
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tfxhk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tfxhk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  </div>
+
+  <!-- GIF (Right Side) -->
+  <div>
+    <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+  </div>
+
+
+### 🌸 Design Mastery with
 </div>
 
-###
+![Canva](https://img.shields.io/badge/Canva-eeeeee?style=for-the-badge&logo=Canva)
+![Figmaa](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Picsart](https://img.shields.io/badge/Picsart-800080?style=for-the-badge&logo=Picsart&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-000000?style=for-the-badge&logo=Adobe-Lightroom&logoColor=1FB6F3)
+
+
+### 🎤 Presentation Design & PPT Generation Tools
+
+<div align="left">
+
+![Canva](https://img.shields.io/badge/Canva-87CEEB?style=for-the-badge&logo=Canva&logoColor=000000)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-black?style=for-the-badge&logo=microsoftpowerpoint&logoColor=red&labelColor=white)
+![DaFont](https://img.shields.io/badge/DaFont-FF0000?style=for-the-badge&logo=font-awesome&logoColor=white)
+
+</div>
+
+
+
+
+### 🐛 Languages I Work With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
