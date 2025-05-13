@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Rie's%20GitHub&textBg=false&reversal=false&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Rie's%20GitHub&textBg=false&reversal=false&fontColor=white" /> 
 </div>
-
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>A student on a journey, where writing code is a part of bulding dreams <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><b></b>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=3000&pause=3000&color=FFFFFF&width=1000&lines=%CB%97%CB%8F%CB%8B+𝐇𝐞𝐥𝐥𝐨+𝐖𝐨𝐫𝐥𝐝+%E2%8B%AE+𝐟𝐫𝐨𝐦+𝐭𝐡𝐞+𝐝𝐞𝐩𝐭𝐡𝐬+𝐨𝐟+𝐥𝐨𝐠𝐢𝐜!!+%CB%8E%CB%8A%CB%97)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=3000&color=FFFFFF&width=1000&lines=A+student+on+a+journey,+where+writing+code+is+the+path+to+building+dreams+📚+🧠+⚙️)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=3000&pause=3000&color=FFFFFF&width=1000&lines=%CB%97%CB%8F%CB%8B+𝐇𝐞𝐥𝐥𝐨+𝐖𝐨𝐫𝐥𝐝+%E2%8B%AE+𝐟𝐫𝐨𝐦+𝐭𝐡𝐞+𝐝𝐞𝐩𝐭𝐡𝐬+𝐨𝐟+𝐥𝐨𝐠𝐢𝐜!!+%CB%8E%CB%8A%CB%97)](https://git.io/typing-svg) 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tfxhk/count.svg?"  />
@@ -52,7 +51,7 @@
 
 
 
-### 💻 Languages I Work With
+### 💻 Languages I Work With 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -71,7 +70,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  /> 
 </div>
 
 ###
