@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Rie's%20GitHub&textBg=false&reversal=false&fontColor=white" /> 
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello%2C+I'm+Rie;A+binary+dreamer%2+trying+to+compile+happiness" width="70%" />
+<br><br>
+  
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>A student on a journey, where writing code is a part of bulding dreams <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><b></b>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=3000&pause=3000&color=FFFFFF&width=1000&lines=%CB%97%CB%8F%CB%8B+𝐇𝐞𝐥𝐥𝐨+𝐖𝐨𝐫𝐥𝐝+%E2%8B%AE+𝐟𝐫𝐨𝐦+𝐭𝐡𝐞+𝐝𝐞𝐩𝐭𝐡𝐬+𝐨𝐟+𝐥𝐨𝐠𝐢𝐜!!+%CB%8E%CB%8A%CB%97)](https://git.io/typing-svg) 
@@ -76,3 +78,4 @@
 ###
  ![Snake animation](https://github.com/natfirmino/TesteNat/blob/output/github-contribution-grid-snake.svg)
 ###
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>A student on a journey, where writing code is a part of bulding dreams <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><b></b>
