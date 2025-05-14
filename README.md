@@ -20,7 +20,7 @@
 
 <p align="left">
   
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=snoopy1866&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=tfxhk&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
   
   <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=tfxhk&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" />
 </p>
