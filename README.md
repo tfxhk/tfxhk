@@ -3,36 +3,41 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello%2C+I'm+Rie;A+binary+dreamer%2C+trying+to+compile+dreams" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello%2C+I'm+Rie;A+binary+dreamer%2C+trying+to+compile+dreams+:)" width="70%" />
 <br><br>
   
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=3000&pause=3000&color=FFFFFF&width=1000&lines=%CB%97%CB%8F%CB%8B+𝐒𝐚𝐲𝐢𝐧𝐠+𝐇𝐞𝐥𝐥𝐨+𝐖𝐨𝐫𝐥𝐝+%E2%8B%AE+𝐟𝐫𝐨𝐦+𝐭𝐡𝐞+𝐝𝐞𝐩𝐭𝐡𝐬+𝐨𝐟+𝐥𝐨𝐠𝐢𝐜!!+%CB%8E%CB%8A%CB%97)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=3000&pause=3000&color=FFFFFF&width=1000&lines=%CB%97%CB%8F%CB%8B+𝐇𝐞𝐥𝐥𝐨+𝐖𝐨𝐫𝐥𝐝+%E2%8B%AE+𝐟𝐫𝐨𝐦+𝐭𝐡𝐞+𝐝𝐞𝐩𝐭𝐡𝐬+𝐨𝐟+𝐥𝐨𝐠𝐢𝐜!!+%CB%8E%CB%8A%CB%97)](https://git.io/typing-svg) 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tfxhk/count.svg?"  />
 
   ###
+
+</p>
+
+<p align="left">
+  
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=snoopy1866&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
+  
+  <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=tfxhk&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" />
+</p>
+
 </div>
+<p align="left">
+   
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=tfxhk&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+</p>
+
 
 <div style="display: flex; align-items: left; justify-content: space-between;">
 
-  <!-- GitHub Stats (Left Side) -->
-<div align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tfxhk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tfxhk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
-
-</div>
 
 
 
 <div align="left">
-
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 
   <h3>🌸 Design Mastery with</h3>
 
@@ -42,19 +47,17 @@
   <img src="https://img.shields.io/badge/Lightroom-000000?style=for-the-badge&logo=Adobe-Lightroom&logoColor=1FB6F3" />
 
 </div>
-
+<div align="left">
+  
 ### 🎤 Presentation Design & PPT Generation Tools
 
-<div align="left">
+
 
 ![Canva](https://img.shields.io/badge/Canva-87CEEB?style=for-the-badge&logo=Canva&logoColor=000000)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-black?style=for-the-badge&logo=microsoftpowerpoint&logoColor=red&labelColor=white)
 ![DaFont](https://img.shields.io/badge/DaFont-FF0000?style=for-the-badge&logo=font-awesome&logoColor=white)
 
-</div>
-
-
-
+<div align="left">
 
 ### 💻 Languages I Work With 
 
@@ -82,3 +85,5 @@
  ![Snake animation](https://github.com/natfirmino/TesteNat/blob/output/github-contribution-grid-snake.svg)
 ###
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>A student on a journey, where writing code is a part of bulding dreams <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><b></b>
+
+
