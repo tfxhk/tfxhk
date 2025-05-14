@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=3000&pause=3000&color=FFFFFF&width=1000&lines=%CB%97%CB%8F%CB%8B+𝐇𝐞𝐥𝐥𝐨+𝐖𝐨𝐫𝐥𝐝+%E2%8B%AE+𝐟𝐫𝐨𝐦+𝐭𝐡𝐞+𝐝𝐞𝐩𝐭𝐡𝐬+𝐨𝐟+𝐥𝐨𝐠𝐢𝐜!!+%CB%8E%CB%8A%CB%97)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=3000&pause=3000&color=FFFFFF&width=1000&lines=%CB%97%CB%8F%CB%8B+𝐒𝐚𝐲𝐢𝐧𝐠+𝐇𝐞𝐥𝐥𝐨+𝐖𝐨𝐫𝐥𝐝+%E2%8B%AE+𝐟𝐫𝐨𝐦+𝐭𝐡𝐞+𝐝𝐞𝐩𝐭𝐡𝐬+𝐨𝐟+𝐥𝐨𝐠𝐢𝐜!!+%CB%8E%CB%8A%CB%97)](https://git.io/typing-svg) 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tfxhk/count.svg?"  />
@@ -17,28 +17,31 @@
   ###
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: left; justify-content: space-between;">
 
   <!-- GitHub Stats (Left Side) -->
-  <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tfxhk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tfxhk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  </div>
+<div align="left">
 
-  <!-- GIF (Right Side) -->
-  <div>
-    <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tfxhk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tfxhk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
 
-### 🌸 Design Mastery with
 </div>
 
-![Canva](https://img.shields.io/badge/Canva-eeeeee?style=for-the-badge&logo=Canva)
-![Figmaa](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Picsart](https://img.shields.io/badge/Picsart-800080?style=for-the-badge&logo=Picsart&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-000000?style=for-the-badge&logo=Adobe-Lightroom&logoColor=1FB6F3)
 
+
+<div align="left">
+
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+
+  <h3>🌸 Design Mastery with</h3>
+
+  <img src="https://img.shields.io/badge/Canva-eeeeee?style=for-the-badge&logo=Canva" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Picsart-800080?style=for-the-badge&logo=Picsart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightroom-000000?style=for-the-badge&logo=Adobe-Lightroom&logoColor=1FB6F3" />
+
+</div>
 
 ### 🎤 Presentation Design & PPT Generation Tools
 
