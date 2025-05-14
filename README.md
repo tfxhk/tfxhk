@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello%2C+I'm+Rie;A+binary+dreamer%2C+trying+to+compile+happiness" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello%2C+I'm+Rie;A+binary+dreamer%2C+trying+to+compile+dreams" width="70%" />
 <br><br>
   
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
