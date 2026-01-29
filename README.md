@@ -11,16 +11,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=3000&pause=3000&color=FFFFFF&width=1000&lines=%CB%97%CB%8F%CB%8B+𝐇𝐞𝐥𝐥𝐨+𝐖𝐨𝐫𝐥𝐝+%E2%8B%AE+𝐟𝐫𝐨𝐦+𝐭𝐡𝐞+𝐝𝐞𝐩𝐭𝐡𝐬+𝐨𝐟+𝐥𝐨𝐠𝐢𝐜!!+%CB%8E%CB%8A%CB%97)](https://git.io/typing-svg) 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tfxhk/count.svg?"  />
-
-  ###
 
 </p>
 
 <p align="left">
   
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=tfxhk&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats"><img align = "right" alt = "coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
   
   <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=tfxhk&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" />
 </p>
